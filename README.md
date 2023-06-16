@@ -1,2 +1,2 @@
 # Ulance-Assignment01-SEIP-2023
-Preview link- https://github.com/Jannatunjannat/Ulance-Assignment01-SEIP-2023.git
+# Preview link- https://jannatunjannat.github.io/Ulance-Assignment01-SEIP-2023/
